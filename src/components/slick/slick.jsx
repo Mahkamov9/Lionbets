@@ -34,7 +34,21 @@ export default class SimpleSlider extends Component {
             <h3>6</h3>
           </div>
         </Slider>
+
+
+        <div>
+            jhsdvjchvsdhjsdv
+            sdgsdfsdfsd
+            sdfsdfsdf
+            sdfsdfsdfsdfsdf
+            sdfsdfsdfds
+        </div>
+
       </div>
+
+
+        
+
     );
   }
 }
